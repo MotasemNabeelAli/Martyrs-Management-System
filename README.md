@@ -23,7 +23,7 @@ Implement a martyrs data structure using: Sorted doubly circular linked list, AV
 - Switching between the cities means you can see the stats and the traverse for both of the trees.
 - Save your changes in the save tap where you can type your file name and choose the directory to save your file at.
 
-## Features
+## Features <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/7fc60202-2d63-443c-acbc-621634d0952e" width="40">
 
 - Data Loading: you can easily load the martyrs from the csv file, populating the trees, queues, stacks, and circular linked list.
 - Location Management: Insert new location records, ensuring they are sorted by location.
