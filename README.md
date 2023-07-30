@@ -11,9 +11,9 @@ Implement a martyrs data structure using: Sorted doubly circular linked list, AV
 
 ## Usage
 
-### Data Input:
+#### Data Input:
 - Launch the application and load the cities on your datastructure.
-### Functionality:
+#### Functionality:
 - You can go to the location tap where you can choose specific city to work on.
 - You can go to the summary tap where all the martyrs in all the cities are loaded in.
 - In the summary tap a summary for all the cities with : Number of Marytrs, Height of the Name's AVL tree , Height of the Date's AVL tree and the date with max number of martyrs.
