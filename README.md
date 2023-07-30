@@ -9,7 +9,7 @@ Implement a martyrs data structure using: Sorted doubly circular linked list, AV
 - Install the btselem.csv and Martyrs.txt file ( The second file is used for testing the functionality of the source code ).
 - Install the background and the logo pictures.
 
-## Usage
+## Usage <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/249180b1-fb2d-461f-94ca-aeb5ecbb21b6" width="40">
 
 #### Data Input:
 - Launch the application and load the cities on your datastructure.
