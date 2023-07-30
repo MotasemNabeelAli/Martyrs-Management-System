@@ -2,7 +2,7 @@
 
 Implement a martyrs data structure using: Sorted doubly circular linked list, AVL Trees, Queues, and Stacks. The data structure contains location records sorted by location, with each location record having two AVL trees: one for storing martyr records sorted by martyr's name and the other for storing DateStack objects sorted by date. The project includes a graphical user interface (GUI) using JavaFX for a seamless user experience. Users can load martyr's data from a CSV file, perform various operations on the data: add, delete and update martyrs information, view statistics, and save the updated data back to a file.
 
-## Installation <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/2899a7a2-b3e8-4695-91aa-0c8b722cc87f" width="20">
+## Installation <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/2899a7a2-b3e8-4695-91aa-0c8b722cc87f" width="40">
 
 - Java Runtime Environment (JRE) and Java Development Kit (JDK).
 - Install the source code in your IDE.
